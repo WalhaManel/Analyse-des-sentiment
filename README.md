@@ -4,9 +4,9 @@ Classification des sentiments en utilisant l’algorithme Naive Bayes
 Les attributs sont des phrases de texte, extraites de critiques de produits, de films et de 
 restaurants.
 Les phrases proviennent de trois sites/champs différents :
-▪ imdb.com
-▪ amazon.com
-▪ yelp.com
+- imdb.com
+- amazon.com
+- yelp.com
 Pour chaque site web, il existe 500 phrases positives et 500 phrases négatives. Ceux-ci ont été 
 sélectionnés au hasard pour des ensembles de données d'examens plus importants.
 # Objectif
